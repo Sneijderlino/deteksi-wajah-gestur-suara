@@ -13,10 +13,25 @@ Proyek ini menggunakan _OpenCV, **Mediapipe, dan **gTTS_ untuk mendeteksi wajah 
 ## 🚀 Cara Menjalankan
 
 1. Clone repo ini:
+
    ```bash
    git clone https://github.com/Sneijderlino/deteksi-wajah-gestur-suara.git
-   cd deteksi-wajah
-   pip install -r requirements.txt
-   python deteksi-wajah-gestur-suara.py
    ```
- 
+
+2. Masuk ke folder project:
+
+```bash
+cd deteksi-wajah
+```
+
+3. Install dependensi:
+
+```bash
+ pip install -r requirements.txt
+```
+
+4.  Jalankan program:
+
+```bash
+ python deteksi-wajah-gestur-suara.py
+```
