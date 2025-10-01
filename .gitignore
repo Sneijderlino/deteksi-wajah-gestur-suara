@@ -1,0 +1,15 @@
+# Cache Python
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+venv/
+.env
+
+# File audio sementara
+*.mp3
+
+# VS Code settings
+.vscode/
