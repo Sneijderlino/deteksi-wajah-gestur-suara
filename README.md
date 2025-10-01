@@ -21,7 +21,7 @@ git clone https://github.com/Sneijderlino/deteksi-wajah-gestur-suara.git
 2. Masuk ke folder project:
 
 ```bash
-cd deteksi-wajah
+cd deteksi-wajah-gestur-suara
 ```
 
 3. Install dependensi:
